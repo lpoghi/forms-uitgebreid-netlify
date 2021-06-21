@@ -1,0 +1,43 @@
+a{	text-decoration: none;
+	color: #000;
+	}
+a:hover {
+	color: red;
+}
+body{ 
+	font-family: sans-serif;
+	width:80%;
+	margin: auto;
+	}
+
+header{ background-color: blue;
+		color: whitesmoke;
+		border-bottom: 10px red solid;}
+
+.box-1 { border: dotted 3px red;
+	padding-top: 10px;
+	 }
+
+.my-form label{
+	display: block;
+	margin: 5px;
+	}
+.my-form{ text-align: center; }
+
+.button { background-color: blue;
+			color: whitesmoke;
+			margin-top: 5px; }
+footer{ text-align: center;
+		font-size: 10px; 
+		color: lightgray;
+		padding: 20px; }
+
+.topnav{ background-color: seagreen;
+		overflow: hidden; } 
+
+.topnav{ padding: 10px; 
+		text-align: center;
+		font-weight: bold;
+}
+
+#navwords {margin-right: 140px;}
